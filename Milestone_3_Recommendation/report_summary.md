@@ -33,7 +33,7 @@
 
 **Recommendation Mapping by Cluster**
 
-| Cluster | Optimal Actions                                           |    Tools & Techniques                            | Motivational Tips                                  |
+| Cluster | Optimal Actions                                           |    Tools & Techniques                            | Motivational Tips                      |
 |  0  | Maintain study habits, add peer learning sessions | Group study, Pomodoro timer apps         | Share knowledge with peers to deepen understanding |
 |  1  | Continue focused learning, attend regularly          | Online courses, digital calendars             | Set achievable weekly goals and reward consistency |
 |  2  | Weekly review sessions, short focused lessons     | Flashcard apps (Anki, Quizlet), planners | Track small wins to stay motivated                 |
